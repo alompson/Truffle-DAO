@@ -7,5 +7,4 @@
 <br>
 ## 2. Install Truffle
 <br>
-> $ npm install -g truffle
-## 3
+#### With this basic environment, you should be fine to compile and run the simulation
